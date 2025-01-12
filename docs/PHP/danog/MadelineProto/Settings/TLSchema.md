@@ -17,16 +17,10 @@ TL schema settings.
 
 
 ## Method list:
-* [`needsUpgrade(): bool`](#needsUpgrade)
 * [`upgrade(): void`](#upgrade)
 * [`getLayer(): int`](#getLayer)
-* [`setLayer(int $layer): self`](#setLayer)
-* [`getMTProtoSchema(): string`](#getMTProtoSchema)
-* [`setMTProtoSchema(string $MTProtoSchema): self`](#setMTProtoSchema)
-* [`getAPISchema(): string`](#getAPISchema)
-* [`setAPISchema(string $APISchema): self`](#setAPISchema)
-* [`getSecretSchema(): string`](#getSecretSchema)
-* [`setSecretSchema(string $secretSchema): self`](#setSecretSchema)
+* [`setLayer(int $layer): 
+* [`getSecretSchema(): string`](#setSecretSchema)
 * [`getOther(): array<string, string>`](#getOther)
 * [`setOther(array<string, string> $other): self`](#setOther)
 * [`getFuzzMode(): bool`](#getFuzzMode)
