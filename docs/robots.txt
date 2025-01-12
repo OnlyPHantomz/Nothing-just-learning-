@@ -1,5 +1,2 @@
-User-agent: *
-Allow: /
 
-sitemap: https://docs.madelineproto.xyz/sitemap.xml
 
