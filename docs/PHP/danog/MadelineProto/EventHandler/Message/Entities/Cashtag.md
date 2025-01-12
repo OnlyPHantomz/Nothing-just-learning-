@@ -6,10 +6,7 @@ parent: "MadelineProto API"
 
 ---
 # `danog\MadelineProto\EventHandler\Message\Entities\Cashtag`
-[Back to index](../../../../../index.html)
-
-> Author: Daniil Gentili <daniil@daniil.it>  
-  
+[Back to index](../../../../../
 
 Message entity representing a $cashtag.  
 
