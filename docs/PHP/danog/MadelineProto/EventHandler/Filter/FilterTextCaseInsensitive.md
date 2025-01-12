@@ -5,29 +5,7 @@ image: "https://docs.madelineproto.xyz/favicons/android-chrome-256x256.png"
 parent: "MadelineProto API"
 
 ---
-# `danog\MadelineProto\EventHandler\Filter\FilterTextCaseInsensitive`
-[Back to index](../../../../index.html)
-
-> Author: Daniil Gentili <daniil@daniil.it>  
-  
-
-Allow only messages with a specific case-insensitive content.  
-
-
-
-
-## Method list:
-* [`__construct(string $content)`](#__construct)
-* [`apply(\danog\MadelineProto\EventHandler\Update $update): bool`](#apply)
-* [`initialize(\danog\MadelineProto\EventHandler $API): \danog\MadelineProto\EventHandler\Filter\Filter`](#initialize)
-* [`fromReflectionType(\ReflectionType $type): \danog\MadelineProto\EventHandler\Filter\Filter`](#fromReflectionType)
-
-## Methods:
-### <a name="__construct"></a> `__construct(string $content)`
-
-
-
-
+# `danog\
 Parameters:
 
 * `$content`: `string`   
