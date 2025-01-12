@@ -19,15 +19,15 @@ Memory backend settings.
 ## Method list:
 * [`getOrmSettings(): \danog\AsyncOrm\Settings`](#getOrmSettings)
 * [`getEnableFileReferenceDb(): bool`](#getEnableFileReferenceDb)
-* [`setEnableFileReferenceDb(bool $enableFileReferenceDb): static`](#setEnableFileReferenceDb)
+* [`setEnableFileReferenceDb(bool $enableFileReferenceDb): static`]
 * [`getEnableMinDb(): bool`](#getEnableMinDb)
-* [`setEnableMinDb(bool $enableMinDb): static`](#setEnableMinDb)
+* [`setEnableMinDb(bool $enableMinDb): static`]
 * [`getEnableUsernameDb(): bool`](#getEnableUsernameDb)
-* [`setEnableUsernameDb(bool $enableUsernameDb): static`](#setEnableUsernameDb)
+* [`setEnableUsernameDb(bool $enableUsernameDb): static`]
 * [`getEnableFullPeerDb(): bool`](#getEnableFullPeerDb)
-* [`setEnableFullPeerDb(bool $enableFullPeerDb): static`](#setEnableFullPeerDb)
+* [`setEnableFullPeerDb(bool $enableFullPeerDb): static`]
 * [`getEnablePeerInfoDb(): bool`](#getEnablePeerInfoDb)
-* [`setEnablePeerInfoDb(bool $enablePeerInfoDb): static`](#setEnablePeerInfoDb)
+* [`setEnablePeerInfoDb(bool $enablePeerInfoDb): static`
 
 ## Methods:
 ### <a name="getOrmSettings"></a> `getOrmSettings(): \danog\AsyncOrm\Settings`
