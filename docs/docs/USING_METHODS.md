@@ -78,25 +78,7 @@ $MadelineProto->messages->sendMessage(peer: '@danogentili', message: 'lel', repl
 ```
 
 
-## Bot API objects
-To convert the results of methods to bot API objects you can use the MTProtoToBotAPI method.
-
-```php
-$bot_API_object = $MadelineProto->MTProtoToBotAPI($MadelineProto->messages->sendMessage(peer: '@danogentili', message: 'lel'));
-```
-
-MadelineProto also [supports bot API file IDs when working with files](FILES.html)
-
-
 ## No result
-
-See [ignored async](https://docs.madelineproto.xyz/docs/ASYNC.html#ignored-async).  
-
-## Multiple method calls
-
-See [multiple async](https://docs.madelineproto.xyz/docs/ASYNC.html#multiple-async).  
-
-## Cancellation
 
 See [cancellation &raquo;](https://docs.madelineproto.xyz/docs/ASYNC.html#cancellation).  
 
