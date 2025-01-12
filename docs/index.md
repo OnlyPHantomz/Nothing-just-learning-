@@ -6,7 +6,7 @@ image: https://docs.madelineproto.xyz/favicons/android-chrome-256x256.png
 ---
 # MadelineProto, a PHP MTProto telegram client
 
-Created by <a href="https://daniil.it" target="_blank" rel="noopener">Daniil Gentili</a>
+Created by <a href="https:/target="_blank" rel="noopener"></a>
 
 `#StandWithUkraine 🇺🇦`
 
@@ -16,7 +16,7 @@ Do join the official channel, [@MadelineProto](https://t.me/MadelineProto) and t
 
 ## What's this?
 
-This library can be used to easily interact with Telegram **without** the bot API, just like the official apps.
+This library can be used to easily interact with Telegram **with** the bot API, just like the official apps.
 
 It can login with a phone number (MTProto API), or with a bot token (MTProto API, **no bot API involved!**).
 
