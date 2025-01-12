@@ -6,9 +6,7 @@ parent: "MadelineProto API"
 
 ---
 # `danog\MadelineProto\EventHandler\Privacy\RuleDestination\AllowUsers`
-[Back to index](../../../../../index.html)
-
-> Author: Daniil Gentili <daniil@daniil.it>  
+[Back to index](../../../../../index.
   
 
 Allow only certain user.  
