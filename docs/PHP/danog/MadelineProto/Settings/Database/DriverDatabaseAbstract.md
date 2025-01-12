@@ -195,7 +195,7 @@ Get whether to enable the min database. If disabled, will break sendMessage (and
 
 ### <a name="setEnableMinDb"></a> `setEnableMinDb(bool $enableMinDb): static`
 
-Set whether to enable the min database. If disabled, will break sendMessage (and other methods) in certain conditions.
+Set whether to enable the min database. If disabled, will break 
 
 
 Parameters:
