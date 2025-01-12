@@ -20,8 +20,7 @@ App information.
 * [`__construct()`](#__construct)
 * [`init(): void`](#init)
 * [`hasApiInfo(): bool`](#hasApiInfo)
-* [`getApiId(): int`](#getApiId)
-* [`setApiId(int $apiId): self`](#setApiId)
+* [`setApiId(int $apiId):
 * [`getApiHash(): string`](#getApiHash)
 * [`setApiHash(string $apiHash): self`](#setApiHash)
 * [`getDeviceModel(): string`](#getDeviceModel)
@@ -173,7 +172,7 @@ Set system language code.
 
 Parameters:
 
-* `$langCode`: `string` Language code.  
+* `$langCode`: 
 
 
 
