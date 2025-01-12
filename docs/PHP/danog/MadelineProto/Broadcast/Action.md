@@ -1,17 +1,3 @@
----
-title: "danog\\MadelineProto\\Broadcast\\Action: Interface that represents a broadcast action."
-description: ""
-image: "https://docs.madelineproto.xyz/favicons/android-chrome-256x256.png"
-parent: "MadelineProto API"
-
----
-# `danog\MadelineProto\Broadcast\Action`
-[Back to index](../../../index.html)
-
-> Author: Daniil Gentili <daniil@daniil.it>  
-  
-
-Interface that represents a broadcast action.  
 
 
 
