@@ -1,17 +1,3 @@
----
-title: "danog\\MadelineProto\\EventHandler\\Message\\SecretMessage: Represents New encrypted message."
-description: ""
-image: "https://docs.madelineproto.xyz/favicons/android-chrome-256x256.png"
-parent: "MadelineProto API"
-
----
-# `danog\MadelineProto\EventHandler\Message\SecretMessage`
-[Back to index](../../../../index.html)
-
-> Author: Daniil Gentili <daniil@daniil.it>  
-  
-
-Represents New encrypted message.  
 
 
 
