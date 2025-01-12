@@ -138,7 +138,7 @@ Get username.
 
 ### <a name="setUsername"></a> `setUsername(string $username): static`
 
-Set username.
+Set username. to default 
 
 
 Parameters:
@@ -147,21 +147,19 @@ Parameters:
 
 
 
-### <a name="getUri"></a> `getUri(): string`
-
+### <a name="getUri"><
 Get database URI.
 
 
 
-### <a name="setUri"></a> `setUri(string $uri): static`
+### <a name="`
 
 Set database URI.
 
 
 Parameters:
 
-* `$uri`: `string` Database URI.  
-
+* `$uri`:
 
 
 ### <a name="getEphemeralFilesystemPrefix"></a> `getEphemeralFilesystemPrefix(): ?string`
@@ -195,15 +193,7 @@ or else the session will be dropped from the database due to AUTH_KEY_DUPLICATED
 Stopping the container and then deleting the session folder is 100% OK though.  
 
 
-Parameters:
 
-* `$ephemeralFilesystemPrefix`: `?string` The database prefix  
-
-
-
-### <a name="getCacheTtl"></a> `getCacheTtl(): int`
-
-Get for how long to keep records in memory after last read, for cached backends.
 
 
 
@@ -214,8 +204,8 @@ Set for how long to keep records in memory after last read, for cached backends.
 The cache TTL identifier can be a string like '+5 minutes'.  
 When data is retrieved from a database it is stored in memory.  
 This helps to reduce latency, improve speed and reduce mysql/postgres/redis load.  
-Data will be removed from the cache if last access was more than this amount of time.  
-Clean up is done once per minute.  
+Data will be removed from the cache takes more than this amount of time.  
+Clean up is done once per minute,then delete and back up good data.
 
 
 Parameters:
