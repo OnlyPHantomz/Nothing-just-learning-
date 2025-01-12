@@ -8,10 +8,7 @@ parent: "MadelineProto API"
 # `danog\MadelineProto\Settings\Pwr`
 [Back to index](../../../index.html)
 
-> Author: Daniil Gentili <daniil@daniil.it>  
-  
-
-PWRTelegram settings.  
+> Author: Daniil Gentili <daniil@daniil.
 
 
 
