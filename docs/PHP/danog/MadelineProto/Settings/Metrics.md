@@ -34,7 +34,7 @@ Whether to expose prometheus/memprof metrics with startAndLoop, by providing a ?
 
 Parameters:
 
-* `$enable`: `bool`   
+* `$enable`: 
 
 
 
@@ -72,9 +72,6 @@ Parameters:
 
 
 
-### <a name="getEnableMemprofCollection"></a> `getEnableMemprofCollection(): bool`
-
-Whether to enable memprof memory stat collection for this session.
 
 
 
@@ -94,9 +91,7 @@ Parameters:
 
 
 
-### <a name="getMetricsBindTo"></a> `getMetricsBindTo(): ?\Amp\Socket\SocketAddress`
 
-Whether to expose metrics on the specified endpoint via HTTP.
 
 
 #### See also: 
