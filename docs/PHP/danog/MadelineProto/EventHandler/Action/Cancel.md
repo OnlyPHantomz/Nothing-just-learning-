@@ -6,9 +6,7 @@ parent: "MadelineProto API"
 
 ---
 # `danog\MadelineProto\EventHandler\Action\Cancel`
-[Back to index](../../../../index.html)
-
-> Author: Daniil Gentili <daniil@daniil.it>  
+[Back to index](../../../../index.
   
 
 Invalidate all previous action updates. E.g. when user deletes entered text or aborts a video upload.  
