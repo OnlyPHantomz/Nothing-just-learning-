@@ -1,17 +1,4 @@
 ---
-title: "danog\\MadelineProto\\EventHandler\\Message\\ReportReason: "
-description: ""
-image: "https://docs.madelineproto.xyz/favicons/android-chrome-256x256.png"
-parent: "MadelineProto API"
-
----
-# `danog\MadelineProto\EventHandler\Message\ReportReason`
-[Back to index](../../../../index.html)
-
-> Author: Daniil Gentili <daniil@daniil.it>  
-  
-
-  
 
 
 
