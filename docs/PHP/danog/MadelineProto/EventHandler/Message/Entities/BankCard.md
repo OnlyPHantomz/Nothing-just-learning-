@@ -8,7 +8,7 @@ parent: "MadelineProto API"
 # `danog\MadelineProto\EventHandler\Message\Entities\BankCard`
 [Back to index](../../../../../index.html)
 
-> Author: Daniil Gentili <daniil@daniil.it>  
+>
   
 
 Indicates a credit card number.  
