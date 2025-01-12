@@ -1,9 +1,4 @@
----
-title: "danog\\MadelineProto\\EventHandler\\ChatInvite\\ChatInviteExported: Represents an exported chat invite."
-description: ""
-image: "https://docs.madelineproto.xyz/favicons/android-chrome-256x256.png"
-parent: "MadelineProto API"
-
+exipred revolk
 ---
 # `danog\MadelineProto\EventHandler\ChatInvite\ChatInviteExported`
 [Back to index](../../../../index.html)
