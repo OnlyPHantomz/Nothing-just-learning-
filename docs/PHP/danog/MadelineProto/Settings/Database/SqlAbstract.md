@@ -349,8 +349,6 @@ Parameters:
 
 
 
-#### See also: 
-* `\danog\AsyncOrm\Settings`
 
 
 
