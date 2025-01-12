@@ -2,8 +2,8 @@
 title: getFullInfo
 description: getFullInfo parameters, return type and example
 redirect_from: /get_full_info.html
-grand_parent: "Telegram RPC API"
-parent: "Methods"
+grand_parent:
+parent: 
 ---
 ## Method: getFullInfo  
 
@@ -16,7 +16,7 @@ parent: "Methods"
 
 ### Return type: [FullInfo](FullInfo.html)
 
-### Example ([now fully async!](https://docs.madelineproto.xyz/docs/ASYNC.html)):
+### Example ([now fully async!](https://)):
 
 
 ```php
