@@ -44,28 +44,6 @@ Parameters:
 
 ### <a name="getFullFetch"></a> `getFullFetch(): bool`
 
-Get should madeline fetch the full member list of every group it meets?
-
-
-
-### <a name="setFullFetch"></a> `setFullFetch(bool $fullFetch): self`
-
-Set should madeline fetch the full member list of every group it meets?
-
-
-Parameters:
-
-* `$fullFetch`: `bool` Should madeline fetch the full member list of every group it meets?  
-
-
-
-### <a name="getCacheAllPeersOnStartup"></a> `getCacheAllPeersOnStartup(): bool`
-
-Get whether to cache all peers on startup for userbots.
-
-
-
-### <a name="setCacheAllPeersOnStartup"></a> `setCacheAllPeersOnStartup(bool $cacheAllPeersOnStartup): self`
 
 Set whether to cache all peers on startup for userbots.
 
