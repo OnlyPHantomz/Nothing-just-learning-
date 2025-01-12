@@ -1,27 +1,4 @@
----
-title: "Async"
-description: "MadelineProto now features async, for incredible speed improvements, and parallel processing, all powered by amphp."
-nav_order: 28
-image: https://docs.madelineproto.xyz/favicons/android-chrome-256x256.png
----
-# Async
-
-MadelineProto now features async, for **incredible speed improvements**, and parallel processing, all powered by [amphp](https://amphp.org).
-
-* [Usage](#usage)
-  * [Async in event handler](#async-in-event-handler)
-  * [Multiple async](#multiple-async)
-  * [Ignored async](#ignored-async)
-  * [Combining async operations](#combining-async-operations)
-  * [MadelineProto and AMPHP async APIs](#madelineproto-and-amphp-async-apis)
-    * [Helper methods](#helper-methods)
-      * [Async sleep](#async-sleep-does-not-block-the-main-thread)
-      * [Async readline](#async-readline-does-not-block-the-main-thread)
-      * [Async echo](#async-echo-does-not-block-the-main-thread)
-      * [MadelineProto HTTP client](#madelineproto-http-client)
-      * [Async forking](#async-forking-does-async-green-thread-forking)
-      * [Async flock](#async-flock)
-    * [MadelineProto async loop APIs](#async-loop-apis)
+reject all 
 
 ## Usage
 
