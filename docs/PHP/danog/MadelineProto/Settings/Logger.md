@@ -61,9 +61,7 @@ Parameters:
 
 
 
-### <a name="getExtra"></a> `getExtra(): callable|string|null`
 
-Get extra parameter for logger.
 
 
 
@@ -96,18 +94,7 @@ Set logging level.
 
 Parameters:
 
-* `$level`: `MadelineProtoLogger::LEVEL_*` Logging level.  
-
-
-#### See also: 
-* `MadelineProtoLogger::LEVEL_*`
-
-
-
-
-### <a name="getMaxSize"></a> `getMaxSize(): int`
-
-Get maximum filesize for logger, in case of file logging.
+* `$level`: `MadelineProtoLogger::LEVEL_*`
 
 
 
